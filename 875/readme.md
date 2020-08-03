@@ -7,6 +7,9 @@
 [leetcode animation](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ## 原题分析
+  koko eating bananas
   N堆香蕉 piles[3, 6, 7, 11]
   H小时回来 4
   K        根/小时
+
+  拆分成多个函数
